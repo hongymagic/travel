@@ -1,16 +1,20 @@
-# Travel
+# Travel log
 
-An easy way for me to keep track of things I've done and to help plan things I'll do.
+## Record the following:
 
-A ~~strikethrough~~ denotes that I didn't get to it, not that it was terrible. Nothing terrible will be recorded.
+- Places I've been to;
+- Awesomefun things I've done in those places;
+- Delicious eateries;
 
-## Planning
+## Don't record these:
 
-<a href="/dylanegan/travel/fork_select" class="minibutton btn-fork" rel="facebox nofollow">Help me</a> plan the following;
+- Boring stuff
 
-* Zurich, Switzerland, July 2012
-* [München, TBD](https://github.com/dylanegan/travel/blob/master/Germany/Mu%CC%88nchen-TBD.md)
+# Planning
 
-- - -
+Use [Github Issues](https://github.com/hongymagic/travel/issues) to plan for new things!
 
-[![Mt. Fuji](http://farm3.staticflickr.com/2564/3764089529_73fa703e79_n.jpg)](http://www.flickr.com/photos/dylane/3764089529/)
+# Useful links
+
+- [hongymagic@flickr]()
+- [KAYAK website]()
