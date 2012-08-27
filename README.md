@@ -1,5 +1,7 @@
 # Travel log
 
+<img src="http://goo.gl/PeVU7">
+
 ## Record the following:
 
 - Places I've been to;
